@@ -1,0 +1,44 @@
+//样式全局方法
+ellipse()
+  overflow hidden;
+  white-space nowrap;
+  text-overflow ellipsis;
+clearFix()
+  zoom 1
+  &::after
+    content '';
+    display block;
+    height 0;
+    clear both;
+    visibility hidden;
+flexAlignCenter()
+  display flex;
+  align-items center
+flexCenter()
+  display flex;
+  justify-content center
+  align-items center
+topAreaWarp()
+  width 100%;
+  padding 20px 20px 0;
+  box-sizing: border-box;
+yqLevel(color)
+  display inline-block;
+  padding: 6px 10px;
+  margin-right: 16px;
+  color #fff;
+  background-color: color;
+  border-radius: 4px;
+  font-size: 12px;
+yqCategory()
+  display inline-block;
+  padding: 6px 10px;
+  margin-right: 16px;
+  color: #3285F1;
+  background:rgba(50,133,241,0.1);
+  border-radius:4px;
+  border:1px solid rgba(133,184,251,1);
+  border-radius: 4px;
+  font-size: 12px;
+
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>fund</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="游云南_工单推送" transform="translate(-24.000000, -199.000000)">
+            <g id="fund" transform="translate(24.000000, 197.000000)">
+                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M14.46875,2.5625 L1.46875,2.5625 C1.1921875,2.5625 0.96875,2.7859375 0.96875,3.0625 L0.96875,13.0625 C0.96875,13.3390625 1.1921875,13.5625 1.46875,13.5625 L14.46875,13.5625 C14.7453125,13.5625 14.96875,13.3390625 14.96875,13.0625 L14.96875,3.0625 C14.96875,2.7859375 14.7453125,2.5625 14.46875,2.5625 Z M13.84375,12.4375 L2.09375,12.4375 L2.09375,3.6875 L13.84375,3.6875 L13.84375,12.4375 Z" id="形状" fill="#DDDDDD" fill-rule="nonzero"></path>
+                <line x1="4" y1="8" x2="10" y2="8" id="路径-4" stroke="#DDDDDD"></line>
+                <line x1="4" y1="6" x2="7" y2="6" id="路径-3" stroke="#DDDDDD"></line>
+                <line x1="4" y1="10" x2="12" y2="10" id="路径-5" stroke="#DDDDDD"></line>
+            </g>
+        </g>
+    </g>
+</svg>
